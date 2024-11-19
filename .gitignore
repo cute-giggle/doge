@@ -1,0 +1,10 @@
+/.venv
+/.vscode
+
+/temp
+/build
+/model
+/thirdparty
+/data/cppjieba
+
+*.wav
